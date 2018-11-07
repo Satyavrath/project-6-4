@@ -1,13 +1,13 @@
 # Web Apps and Services Group 6-4 React.js
 
 ## Group Members
-'''
+```
 Priyanka Bonam
 Akhila Gandra
 Satyavrath Injamuri
 Abhiram Madugula
 Amy White
-''' 
+``` 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
