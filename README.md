@@ -12,14 +12,12 @@ Amy White
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Instructions 
-### 'npm install-g create-react=app'
-This will install all dependies into your local machine
-### 'npm create-react-app react.hello'
-This will craete a folder named react.hello and install all dependcies in the particular folder
-### 'cd react.hello'
-go to the folder react.hello
-### 'npm run start'
-To run the default react js app in browser
+```
+npm install -g creat-react-app //This will install all dependencies into your local machine 
+npm create-react-app react.hello //This will create a folder named react.hello and install all dependencies in the particular folder
+cd react.hello
+npm run start //To run the defaut react.js application locally in your browser
+```
 
 ## Learn More
 
